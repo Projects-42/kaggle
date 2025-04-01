@@ -1,0 +1,92 @@
+﻿ID,Gender,Percent_SSC,Board_SSC,Percent_HSC,Board_HSC,Stream_HSC,Percent_Degree,Course_Degree,Experience_Yrs,Entrance_Test,S-TEST,Percentile_ET,S-TEST*SCORE,Percent_MBA,Specialization_MBA,Marks_Communication,Marks_Projectwork,Marks_BOCA
+1,M,77.12,Others,85.0,Others,Commerce,56.77,Management,0,CAT,1,35.0,35.0,56.34,Marketing & IB,56,66,58
+2,M,83.0,Others,51.0,Others,Science,51.0,Engineering,0,CAT,1,33.0,33.0,58.21,Marketing & HR,50,68,63
+3,M,48.0,CBSE,63.0,CBSE,Commerce,59.7,Commerce,0,MAT,1,44.2,44.2,62.0,Marketing & Finance,52,69,75
+4,M,52.0,CBSE,55.0,CBSE,Science,68.0,Others,1,,0,0.0,0.0,59.99,Marketing & HR,50,64,64
+5,M,58.0,Others,62.0,Others,Science,58.0,Engineering,0,MAT,1,75.0,75.0,66.46,Marketing & Finance,63,61,65
+6,M,75.5,ICSE,60.5,ISC,Science,63.0,Engineering,1,MAT,1,95.0,95.0,64.86,Marketing & Finance,68,81,70
+7,F,83.5,Others,59.2,Others,Science,63.4,Science,0,MAT,1,59.0,59.0,59.69,Marketing & Finance,62,79,71
+8,F,85.8,CBSE,69.0,CBSE,Science,68.2,Engineering,0,MAT,1,75.5,75.5,72.14,Marketing & HR,74,78,69
+9,F,68.96,Others,76.0,Others,Commerce,63.0,Management,0,MAT,1,72.15,72.15,63.08,Marketing & Finance,79,66,54
+10,M,47.68,Others,53.33,Others,Commerce,50.87,Management,0,MAT,1,66.0,66.0,58.3,Marketing & HR,50,59,50
+11,M,67.0,ICSE,65.33,Others,Science,68.21,Engineering,0,MAT,1,63.0,63.0,60.02,Marketing & HR,76,62,77
+12,M,73.7,ICSE,86.7,Others,Commerce,60.0,Commerce,1,MAT,1,90.0,90.0,68.55,Marketing & Finance,58,81,78
+13,M,77.6,Others,79.0,Others,Commerce,75.6,Commerce,0,MAT,1,91.0,91.0,74.49,Marketing & Finance,85,85,83
+14,M,62.0,Others,63.0,Others,Commerce,58.0,Commerce,1,MAT,1,74.4,74.4,53.49,Marketing & HR,60,67,61
+15,F,75.0,CBSE,58.0,CBSE,Science,69.0,Science,0,MAT,1,64.0,64.0,58.32,Marketing & HR,62,64,50
+16,M,63.0,ICSE,78.0,ISC,Commerce,65.0,Management,0,MAT,1,54.0,54.0,52.21,Marketing & Finance,53,74,50
+17,F,69.0,Others,55.0,Others,Commerce,61.0,Commerce,1,XAT,1,74.0,74.0,68.68,Marketing & Finance,63,79,74
+18,F,80.84,Others,86.83,Others,Commerce,75.2,Management,1,MAT,1,78.74,78.74,76.18,Marketing & Finance,69,84,82
+19,M,77.0,CBSE,69.2,CBSE,Commerce,61.0,Commerce,0,,0,0.0,0.0,57.16,Marketing & HR,58,56,63
+20,M,77.0,Others,77.0,Others,Commerce,70.0,Commerce,1,MAT,1,63.79,63.79,66.04,Marketing & Finance,64,72,59
+21,M,50.08,Others,48.5,Others,Commerce,51.61,Commerce,1,PGCET,1,0.0,0.0,56.61,Marketing & HR,50,71,59
+22,M,62.0,Others,55.0,CBSE,Commerce,70.0,Commerce,0,MAT,1,56.0,56.0,60.41,Marketing & HR,53,76,54
+23,M,50.0,ICSE,53.0,CBSE,Commerce,54.0,Management,1,MAT,1,62.0,62.0,60.85,Marketing & HR,57,62,72
+24,M,66.4,Others,72.0,Others,Commerce,57.0,Management,0,MAT,1,60.0,60.0,61.63,Marketing & IB,73,73,54
+25,M,65.0,ICSE,65.0,ISC,Science,75.0,Computer Applications,0,K-MAT,1,93.0,93.0,63.94,Marketing & HR,73,73,56
+26,M,76.33,ICSE,75.33,Others,Science,75.48,Computer Applications,1,MAT,1,86.5,86.5,66.28,Marketing & Finance,69,70,75
+27,M,62.0,Others,60.0,Others,Science,62.0,Computer Applications,1,MAT,1,40.0,40.0,55.67,Marketing & HR,53,68,62
+28,M,53.44,Others,51.66,Others,Commerce,57.0,Commerce,0,,0,0.0,0.0,52.82,Marketing & Finance,54,53,50
+29,M,74.5,CBSE,58.0,CBSE,Science,58.0,Management,0,,0,0.0,0.0,53.42,Marketing & IB,56,60,56
+30,M,55.0,Others,53.0,Others,Arts,65.0,Management,0,MAT,1,60.0,60.0,58.52,Marketing & Finance,54,75,50
+31,M,72.0,Others,49.0,Others,Commerce,47.0,Commerce,1,MAT,1,98.0,98.0,60.04,Marketing & Finance,50,60,62
+32,F,56.0,ICSE,78.0,ISC,Commerce,62.4,Management,0,MAT,1,50.89,50.89,62.21,Marketing & HR,57,70,60
+33,M,57.0,Others,60.0,Others,Commerce,60.3,Management,0,MAT,1,59.0,59.0,64.74,Marketing & Finance,67,66,59
+34,F,64.0,CBSE,75.0,CBSE,Commerce,70.0,Commerce,0,MAT,1,71.0,71.0,62.74,Marketing & HR,63,71,62
+35,F,50.0,CBSE,69.0,CBSE,Commerce,42.0,Arts,0,,0,0.0,0.0,56.45,Marketing & HR,50,72,57
+36,M,63.0,ICSE,73.0,ISC,Commerce,72.0,Commerce,0,MAT,1,80.0,80.0,63.59,Marketing & Finance,60,72,58
+37,F,80.96,Others,45.0,Others,Science,89.0,Computer Applications,0,MAT,1,59.32,59.32,69.71,Marketing & HR,76,77,66
+38,F,64.0,Others,68.0,Others,Science,61.0,Engineering,0,MAT,1,24.38,24.38,62.83,Marketing & HR,57,75,54
+39,F,70.0,ICSE,77.0,ISC,Commerce,53.0,Commerce,0,MAT,1,77.0,77.0,70.17,Marketing & Finance,67,77,57
+40,M,61.5,ICSE,57.5,ISC,Commerce,54.9,Management,0,MAT,1,93.4,93.4,55.03,Marketing & Finance,51,50,77
+41,M,70.0,ICSE,68.0,ISC,Science,62.0,Engineering,1,MAT,1,70.0,70.0,68.07,Marketing & Finance,66,64,73
+42,F,77.0,CBSE,70.0,CBSE,Science,72.0,Computer Applications,0,MAT,1,75.0,75.0,67.99,Marketing & HR,76,64,71
+43,M,73.0,CBSE,50.0,Others,Science,68.0,Computer Applications,1,CAT,1,65.0,65.0,69.94,Marketing & HR,69,70,76
+44,M,78.0,Others,70.0,CBSE,Science,57.0,Engineering,1,,0,0.0,0.0,66.28,Marketing & HR,75,70,59
+45,M,60.2,CBSE,56.4,CBSE,Commerce,58.8,Management,1,MAT,1,93.4,93.4,57.34,Marketing & Finance,60,68,57
+46,M,58.0,Others,62.0,Others,Commerce,62.0,Management,0,MAT,1,68.0,68.0,57.69,Marketing & HR,54,70,58
+47,F,64.0,CBSE,70.0,CBSE,Commerce,59.0,Commerce,0,MAT,1,70.0,70.0,57.31,Marketing & Finance,55,72,55
+48,M,69.0,Others,51.0,Others,Science,59.0,Management,1,,0,0.0,0.0,58.53,Marketing & HR,53,66,55
+49,M,79.0,Others,53.0,Others,Science,56.0,Engineering,0,MAT,1,89.0,89.0,65.45,Marketing & Finance,78,73,68
+50,F,75.0,ICSE,78.0,ISC,Commerce,71.0,Others,2,MAT,1,88.0,88.0,71.96,Marketing & HR,66,77,78
+51,M,63.0,Others,43.0,Others,Science,63.0,Management,0,MAT,1,73.0,73.0,58.81,Marketing & IB,59,60,55
+52,M,53.4,ICSE,54.2,CBSE,Commerce,54.0,Computer Applications,0,MAT,1,0.0,0.0,53.19,Marketing & Finance,53,68,62
+53,F,69.0,Others,61.0,Others,Commerce,52.0,Commerce,0,MAT,1,70.0,70.0,60.23,Marketing & HR,59,61,60
+54,M,47.5,Others,59.0,Others,Arts,54.5,Arts,1,,0,0.0,0.0,52.43,Marketing & Finance,54,64,56
+55,M,82.0,ICSE,52.0,Others,Science,71.43,Science,1,MAT,1,60.0,60.0,61.29,Marketing & Finance,66,56,57
+56,M,54.0,Others,54.0,Others,Commerce,54.0,Management,1,MAT,1,63.0,63.0,52.38,Marketing & HR,53,58,56
+57,F,59.0,CBSE,68.5,CBSE,Commerce,69.0,Management,0,MAT,1,52.0,52.0,56.7,Marketing & HR,58,63,50
+58,F,61.0,CBSE,54.0,CBSE,Commerce,69.0,Management,0,MAT,1,58.0,58.0,64.36,Marketing & HR,60,63,71
+59,M,55.0,CBSE,70.0,CBSE,Commerce,56.0,Commerce,0,MAT,1,72.0,72.0,55.41,Marketing & HR,59,64,63
+60,M,74.0,CBSE,69.0,CBSE,Science,64.0,Management,1,MAT,1,60.0,60.0,61.9,Marketing & HR,59,75,79
+61,M,54.0,Others,54.0,Others,Science,59.0,Management,0,MAT,1,39.0,39.0,51.73,Marketing & HR,50,68,50
+62,M,66.0,Others,78.0,Others,Commerce,70.0,Management,0,MAT,1,68.5,68.5,59.5,Marketing & HR,71,64,59
+63,F,59.0,ICSE,62.0,Others,Science,65.6,Engineering,3,MAT,1,55.67,55.67,71.49,Marketing & HR,80,77,58
+64,M,66.0,Others,76.0,Others,Commerce,60.0,Management,1,MAT,1,94.0,94.0,57.55,Marketing & Finance,51,60,71
+65,F,52.0,Others,52.8,Others,Commerce,59.52,Management,0,MAT,1,33.91,33.91,62.42,Marketing & Finance,68,68,66
+66,F,79.0,Others,59.0,Others,Science,71.0,Engineering,1,MAT,1,96.0,96.0,71.77,Marketing & Finance,68,72,79
+67,M,75.0,Others,56.0,Others,Commerce,53.0,Management,0,K-MAT,1,85.0,85.0,54.5,Marketing & Finance,52,50,50
+68,M,56.4,Others,66.83,Others,Commerce,48.42,Commerce,0,MAT,1,97.33,97.33,62.27,Marketing & Finance,72,80,65
+69,M,70.08,Others,65.83,Others,Commerce,74.53,Management,0,,0,0.0,0.0,69.81,Marketing & Finance,56,68,70
+70,F,70.0,ICSE,94.0,Others,Commerce,77.0,Commerce,2,MAT,1,89.0,89.0,70.81,Marketing & Finance,73,68,80
+71,F,62.16,ICSE,67.5,ISC,Commerce,57.35,Commerce,0,MAT,1,53.04,53.04,65.52,Marketing & Finance,63,74,56
+72,F,44.0,CBSE,51.0,CBSE,Commerce,45.0,Commerce,0,,0,0.0,0.0,54.76,Marketing & Finance,50,76,66
+73,M,65.92,Others,52.5,Others,Science,63.26,Management,0,K-MAT,1,89.95,89.95,67.54,Marketing & HR,81,71,62
+74,M,52.0,CBSE,51.0,Others,Science,62.0,Management,1,,0,0.0,0.0,57.74,Marketing & HR,58,64,52
+75,M,56.0,CBSE,79.0,CBSE,Commerce,65.0,Management,0,MAT,1,84.0,84.0,58.31,Marketing & Finance,50,64,72
+76,F,69.9,Others,49.0,Others,Science,56.0,Arts,1,MAT,1,80.0,80.0,60.78,Marketing & Finance,62,76,51
+77,M,72.0,Others,65.29,Others,Commerce,67.0,Management,0,MAT,1,95.0,95.0,66.94,Marketing & Finance,65,73,81
+78,F,60.0,CBSE,75.0,CBSE,Commerce,68.0,Commerce,1,MAT,1,60.0,60.0,67.28,Marketing & Finance,58,71,65
+79,F,59.0,ICSE,85.6,Others,Commerce,75.2,Management,0,MAT,1,95.65,95.65,66.94,Marketing & Finance,73,66,63
+80,F,71.4,Others,75.2,Others,Commerce,64.0,Management,0,MAT,1,58.06,58.06,69.28,Marketing & HR,61,78,64
+81,M,55.0,Others,66.4,Others,Commerce,55.4,Commerce,0,MAT,1,68.0,68.0,66.88,Marketing & Finance,55,70,62
+82,F,67.0,ICSE,71.0,Others,Commerce,65.0,Commerce,0,K-MAT,1,62.0,62.0,64.28,Marketing & HR,56,77,83
+83,M,80.0,Others,69.0,Others,Science,62.0,Management,0,MAT,1,68.92,68.92,58.46,Marketing & HR,56,64,71
+84,M,60.8,Others,71.83,Others,Commerce,62.41,Commerce,0,CAT,1,41.38,41.38,60.76,Marketing & Finance,53,73,78
+85,M,55.84,ICSE,54.0,ISC,Arts,57.0,Management,1,PGCET,1,0.0,0.0,54.99,Marketing & HR,50,61,50
+86,M,68.0,Others,80.0,Others,Commerce,70.0,Commerce,0,,0,0.0,0.0,58.94,Marketing & Finance,54,56,50
+87,M,48.0,Others,54.0,Others,Science,58.0,Management,0,MAT,1,39.0,39.0,52.42,Marketing & HR,50,70,53
+88,M,59.0,ICSE,60.0,ISC,Commerce,62.0,Management,1,,0,0.0,0.0,53.37,Marketing & HR,52,50,50
+89,F,74.0,ICSE,83.0,ISC,Arts,50.0,Arts,0,MAT,1,57.0,57.0,64.08,Marketing & Finance,66,63,81
+90,F,79.68,Others,63.5,Others,Science,60.0,Engineering,0,,0,0.0,0.0,67.96,Marketing & HR,64,64,79
+91,M,54.0,ICSE,58.0,Others,Science,62.0,Management,0,MAT,1,85.0,85.0,55.14,Marketing & HR,50,57,55
